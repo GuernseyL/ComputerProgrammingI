@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Prog54a.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Prog54a.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Prog54a.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\obj\Debug\Prog54a.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\obj\Debug\Prog54a.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\obj\Debug\Prog54a.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog54a\Prog54a\obj\Debug\Prog54a.exe

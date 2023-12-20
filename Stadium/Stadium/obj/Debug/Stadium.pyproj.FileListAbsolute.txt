@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\obj\Debug\Stadium.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\obj\Debug\Stadium.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\obj\Debug\Stadium.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Stadium.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Stadium.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Stadium.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Stadium\Stadium\obj\Debug\Stadium.exe

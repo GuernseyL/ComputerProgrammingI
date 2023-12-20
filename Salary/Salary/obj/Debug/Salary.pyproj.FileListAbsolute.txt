@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\obj\Debug\Salary.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\obj\Debug\Salary.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\obj\Debug\Salary.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Salary.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Salary.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Salary.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Salary\Salary\obj\Debug\Salary.exe

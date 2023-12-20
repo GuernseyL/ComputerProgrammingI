@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Simplecalc.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Simplecalc.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Simplecalc.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\obj\Debug\Simplecalc.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\obj\Debug\Simplecalc.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\obj\Debug\Simplecalc.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Simplecalc\Simplecalc\obj\Debug\Simplecalc.exe

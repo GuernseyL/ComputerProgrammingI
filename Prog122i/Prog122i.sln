@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Prog122i", "Prog122i\Prog122i.pyproj", "{3DFEF0F4-E57F-421C-A3F2-2382610328FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFEF0F4-E57F-421C-A3F2-2382610328FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFEF0F4-E57F-421C-A3F2-2382610328FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFEF0F4-E57F-421C-A3F2-2382610328FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFEF0F4-E57F-421C-A3F2-2382610328FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

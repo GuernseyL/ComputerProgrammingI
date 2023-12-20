@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Prog.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Prog.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Prog.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\obj\Debug\Prog.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\obj\Debug\Prog.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\obj\Debug\Prog.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog\Prog\obj\Debug\Prog.exe

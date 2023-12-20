@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\FatCalc.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\FatCalc.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\FatCalc.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\obj\Debug\FatCalc.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\obj\Debug\FatCalc.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\obj\Debug\FatCalc.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\FatCalc\FatCalc\obj\Debug\FatCalc.exe

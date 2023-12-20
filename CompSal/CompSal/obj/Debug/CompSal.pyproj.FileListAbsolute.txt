@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\obj\Debug\CompSal.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\obj\Debug\CompSal.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\obj\Debug\CompSal.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\CompSal.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\CompSal.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\CompSal.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\CompSal\CompSal\obj\Debug\CompSal.exe

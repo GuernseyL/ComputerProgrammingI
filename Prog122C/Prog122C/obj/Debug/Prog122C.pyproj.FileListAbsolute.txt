@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\obj\Debug\Prog122C.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\obj\Debug\Prog122C.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\obj\Debug\Prog122C.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Prog122C.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Prog122C.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Prog122C.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\Prog122C\Prog122C\obj\Debug\Prog122C.exe

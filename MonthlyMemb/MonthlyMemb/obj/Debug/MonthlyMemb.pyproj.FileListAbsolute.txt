@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\MonthlyMemb.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\MonthlyMemb.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\MonthlyMemb.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\obj\Debug\MonthlyMemb.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\obj\Debug\MonthlyMemb.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\obj\Debug\MonthlyMemb.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\MonthlyMemb\MonthlyMemb\obj\Debug\MonthlyMemb.exe

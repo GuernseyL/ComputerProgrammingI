@@ -186,4 +186,31 @@ class MainForm(Form):
 		SOne = int(self._textBox1.Text)
 		STwo = int(self._textBox2.Text)
 		SThree = int(self._textBox3.Text)
+		if SOne >= 10 and SOne <= 19:
+			DOne = .80
+		elif SOne >= 20 and SOne <= 49:
+			DOne = .70
+		elif SOne >= 50 and SOne <= 99:
+			DOne = .60
+		elif SOne >= 100:
+			DOne = .50
+			
+		if STwo >= 10 and STwo <= 19:
+			DTwo = .80
+		elif STwo >= 20 and STwo <= 49:
+			DTwo = .70
+		elif STwo >= 50 and STwo <= 99:
+			DTwo = .60
+		elif STwo >= 100:
+			DTwo = .50
+		
+		if SThree >= 10 and SThree <= 19:
+			DThree = .80
+		elif SThree >= 20 and SThree <= 49:
+			DThree = .70
+		elif SThree >= 50 and SThree <= 99:
+			DThree = .60
+		elif SThree >= 100:
+			DThree = .50
+			
 		

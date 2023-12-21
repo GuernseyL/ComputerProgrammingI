@@ -10,3 +10,15 @@ C:\Users\guernsey.l\Documents\SharpDevelop Projects\Race\Race\obj\Debug\Race.pyp
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\Race\Race\obj\Debug\Race.MainForm.resources
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\Race\Race\obj\Debug\Race.pyproj.GenerateResource.Cache
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\Race\Race\obj\Debug\Race.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Race.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Race.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Race.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\obj\Debug\Race.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\obj\Debug\Race.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\obj\Debug\Race.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\Race\Race\obj\Debug\Race.exe

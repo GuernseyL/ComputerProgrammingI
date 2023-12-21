@@ -213,4 +213,16 @@ class MainForm(Form):
 		elif SThree >= 100:
 			DThree = .50
 			
+		POne = 99 * SOne
+		PTwo = 199 * STwo
+		PThree = 299 * SThree
+		TOne = float(POne) * DOne
+		TTwo = float(PTwo) * DTwo
+		TThree = float(PThree) * DThree
+		TAll = TOne + TTwo + TThree
+		self._label4.Text += str(round(TOne, 2))
+		self._label5.Text += str(round(TTwo, 2))
+		self._label6.Text += str(round(TThree, 2))
+		self._label7.Text += str(round(TAll, 2))
+			
 		

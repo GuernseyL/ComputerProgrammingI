@@ -10,3 +10,15 @@ C:\Users\guernsey.l\Documents\SharpDevelop Projects\BlackJackV2.5\BlackJackV2.5\
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2._.MainForm.resources
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2.5.pyproj.GenerateResource.Cache
 C:\Users\guernsey.l\Documents\SharpDevelop Projects\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2.5.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\BlackJackV2.5.exe.config
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\BlackJackV2.5.exe
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\BlackJackV2.5.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2.5.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2._.MainForm.resources
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2.5.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\SharpDevelop Projects\ComputerProgrammingI\BlackJackV2.5\BlackJackV2.5\obj\Debug\BlackJackV2.5.exe

@@ -287,7 +287,7 @@ class MainForm(Form):
 		self._label4.Name = "label4"
 		self._label4.Size = System.Drawing.Size(384, 88)
 		self._label4.TabIndex = 109
-		self._label4.Text = "Click on the Deck to start. Click the hit button to hit, click the pass button to pass and click the reset button to reset the board"
+		self._label4.Text = "Press Enter to start. Hit H in order to hit, or hit P to pass. The board resets once the round ends."
 		self._label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
 		# pictureBox17
@@ -569,114 +569,166 @@ class MainForm(Form):
 			CPAAR = rnd.Next(1, 14)
 			if CPAAR == 1:
 				CPAA.BackgroundImage = A
+				HPA += 1
 			elif CPAAR == 2:
 				CPAA.BackgroundImage = TW
+				HPA += 2
 			elif CPAAR == 3:
 				CPAA.BackgroundImage = TH
+				HPA += 3
 			elif CPAAR == 4:
 				CPAA.BackgroundImage = FO
+				HPA += 4
 			elif CPAAR == 5:
 				CPAA.BackgroundImage = FI
+				HPA += 5
 			elif CPAAR == 6:
 				CPAA.BackgroundImage = SI
+				HPA += 6
 			elif CPAAR == 7:
 				CPAA.BackgroundImage = SE
+				HPA += 7
 			elif CPAAR == 8:
 				CPAA.BackgroundImage = E
+				HPA += 8
 			elif CPAAR == 9:
 				CPAA.BackgroundImage = N
+				HPA += 9
 			elif CPAAR == 10:
 				CPAA.BackgroundImage = TE
+				HPA += 10
 			elif CPAAR == 11:
 				CPAA.BackgroundImage = J
+				HPA += 10
 			elif CPAAR == 12:
 				CPAA.BackgroundImage = Q
+				HPA += 10
 			elif CPAAR == 13:
 				CPAA.BackgroundImage = K
-			CPBAR = rnd.Next(1, 13)
+				HPA += 10
+			CPBAR = rnd.Next(1, 14)
 			if CPBAR == 1:
 				CPBA.BackgroundImage = D
+				HPB += 1
 			elif CPBAR == 2:
 				CPBA.BackgroundImage = D
+				HPB += 2
 			elif CPBAR == 3:
 				CPBA.BackgroundImage = D
+				HPB += 3
 			elif CPBAR == 4:
 				CPBA.BackgroundImage = D
+				HPB += 4
 			elif CPBAR == 5:
 				CPBA.BackgroundImage = D
+				HPB += 5
 			elif CPBAR == 6:
 				CPBA.BackgroundImage = D
+				HPB += 6
 			elif CPBAR == 7:
 				CPBA.BackgroundImage = D
+				HPB += 7
 			elif CPBAR == 8:
 				CPBA.BackgroundImage = D
+				HPB += 8
 			elif CPBAR == 9:
 				CPBA.BackgroundImage = D
+				HPB += 9
 			elif CPBAR == 10:
 				CPBA.BackgroundImage = D
+				HPB += 10
 			elif CPBAR == 11:
 				CPBA.BackgroundImage = D
+				HPB += 10
 			elif CPBAR == 12:
 				CPBA.BackgroundImage = D
+				HPB += 10
 			elif CPBAR == 13:
 				CPBA.BackgroundImage = D
+				HPB += 10
 				
 		if e.KeyCode == Keys.Enter:
 			rnd = System.Random()
 			CPAAR = rnd.Next(1, 14)
 			if CPAAR == 1:
 				CPAA.BackgroundImage = A
+				HPA += 1
 			elif CPAAR == 2:
 				CPAA.BackgroundImage = TW
+				HPA += 2
 			elif CPAAR == 3:
 				CPAA.BackgroundImage = TH
+				HPA += 3
 			elif CPAAR == 4:
 				CPAA.BackgroundImage = FO
+				HPA += 4
 			elif CPAAR == 5:
 				CPAA.BackgroundImage = FI
+				HPA += 5
 			elif CPAAR == 6:
 				CPAA.BackgroundImage = SI
+				HPA += 6
 			elif CPAAR == 7:
 				CPAA.BackgroundImage = SE
+				HPA += 7
 			elif CPAAR == 8:
 				CPAA.BackgroundImage = E
+				HPA += 8
 			elif CPAAR == 9:
 				CPAA.BackgroundImage = N
+				HPA += 9
 			elif CPAAR == 10:
 				CPAA.BackgroundImage = TE
+				HPA += 10
 			elif CPAAR == 11:
 				CPAA.BackgroundImage = J
+				HPA += 10
 			elif CPAAR == 12:
 				CPAA.BackgroundImage = Q
+				HPA += 10
 			elif CPAAR == 13:
 				CPAA.BackgroundImage = K
-			CPBAR = rnd.Next(1, 13)
+				HPA += 10
+			CPBAR = rnd.Next(1, 14)
 			if CPBAR == 1:
 				CPBA.BackgroundImage = A
+				HPB += 1
 			elif CPBAR == 2:
 				CPBA.BackgroundImage = TW
+				HPB += 2
 			elif CPBAR == 3:
 				CPBA.BackgroundImage = TH
+				HPB += 3
 			elif CPBAR == 4:
 				CPBA.BackgroundImage = FO
+				HPB += 4
 			elif CPBAR == 5:
 				CPBA.BackgroundImage = FI
+				HPB += 5
 			elif CPBAR == 6:
 				CPBA.BackgroundImage = SI
+				HPB += 6
 			elif CPBAR == 7:
 				CPBA.BackgroundImage = SE
+				HPB += 7
 			elif CPBAR == 8:
 				CPBA.BackgroundImage = E
+				HPB += 8
 			elif CPBAR == 9:
 				CPBA.BackgroundImage = N
+				HPB += 9
 			elif CPBAR == 10:
 				CPBA.BackgroundImage = TE
+				HPB += 10
 			elif CPBAR == 11:
 				CPBA.BackgroundImage = J
+				HPB += 10
 			elif CPBAR == 12:
 				CPBA.BackgroundImage = Q
+				HPB += 10
 			elif CPBAR == 13:
 				CPBA.BackgroundImage = K
+				HPB += 10
 				self.timer1.Enabled = True
 			
 			def reset():
@@ -700,43 +752,42 @@ class MainForm(Form):
 				CPBA.BackgroundImage = Empty
 				self._timer1.Enabled = False
 				
-			if e.KeyCode == Keys.H:
-				self._pictureBox1.BackgroundImage = CPAA.BackgroundImage
-				self._pictureBox2.BackgroundImage = self._pictureBox1.BackgroundImage
-				self._pictureBox3.BackgroundImage = self._pictureBox2.BackgroundImage
-				self._pictureBox4.BackgroundImage = self._pictureBox3.BackgroundImage
-				self._pictureBox5.BackgroundImage = self._pictureBox4.BackgroundImage
-				self._pictureBox6.BackgroundImage = self._pictureBox5.BackgroundImage
-				self._pictureBox7.BackgroundImage = self._pictureBox6.BackgroundImage
-				self._pictureBox8.BackgroundImage = self._pictureBox7.BackgroundImage
-				self._pictureBox9.BackgroundImage = CPBA.BackgroundImage
-				self._pictureBox10.BackgroundImage = self._pictureBox9.BackgroundImage
-				self._pictureBox11.BackgroundImage = self._pictureBox10.BackgroundImage
-				self._pictureBox12.BackgroundImage = self._pictureBox11.BackgroundImage
-				self._pictureBox13.BackgroundImage = self._pictureBox12.BackgroundImage
-				self._pictureBox14.BackgroundImage = self._pictureBox13.BackgroundImage
-				self._pictureBox15.BackgroundImage = self._pictureBox14.BackgroundImage
-				self._pictureBox16.BackgroundImage = self._pictureBox15.BackgroundImage
-				Hit()
-			elif e.KeyCode == Keys.P:
-				if int(HPA) > int(HPB):
-					messageBox.Show("You win. The board will now reset.")
+		if e.KeyCode == Keys.H:
+			self._pictureBox1.BackgroundImage = CPAA.BackgroundImage
+			self._pictureBox2.BackgroundImage = self._pictureBox1.BackgroundImage
+			self._pictureBox3.BackgroundImage = self._pictureBox2.BackgroundImage
+			self._pictureBox4.BackgroundImage = self._pictureBox3.BackgroundImage
+			self._pictureBox5.BackgroundImage = self._pictureBox4.BackgroundImage
+			self._pictureBox6.BackgroundImage = self._pictureBox5.BackgroundImage
+			self._pictureBox7.BackgroundImage = self._pictureBox6.BackgroundImage
+			self._pictureBox8.BackgroundImage = self._pictureBox7.BackgroundImage
+			self._pictureBox9.BackgroundImage = CPBA.BackgroundImage
+			self._pictureBox10.BackgroundImage = self._pictureBox9.BackgroundImage
+			self._pictureBox11.BackgroundImage = self._pictureBox10.BackgroundImage
+			self._pictureBox12.BackgroundImage = self._pictureBox11.BackgroundImage
+			self._pictureBox13.BackgroundImage = self._pictureBox12.BackgroundImage
+			self._pictureBox14.BackgroundImage = self._pictureBox13.BackgroundImage
+			self._pictureBox15.BackgroundImage = self._pictureBox14.BackgroundImage
+			self._pictureBox16.BackgroundImage = self._pictureBox15.BackgroundImage
+			Hit()
+		elif e.KeyCode == Keys.P:
+			if int(HPA) > int(HPB):
+				messageBox.Show("You win. The board will now reset.")
+				reset()
 					
-				elif int(HPB) > int(HPA):
-					messageBox.Show("Dealer wins. The board will now reset.")
+			elif int(HPB) > int(HPA):
+				messageBox.Show("Dealer wins. The board will now reset.")
+				reset()
+					
+			elif int(HPB) == int(HPA):
+				messageBox.Show("Tie. The board will now reset.")
+				reset()
 		
 
 	def Timer1Tick(self, sender, e):
 		if int(HPA) > 21:
-			MessageBox.Show("Dealer wins. Press R to reset the board and continue playing.")
-			self._label6.Text = " "
-			self._label6.Visible = False
-			self._textBox1.Visible = True
+			MessageBox.Show("Dealer wins. The board will now reset.")
+			reset()
 		elif int(HPB) > 21:
-			MessageBox.Show("You win. Press R to reset the board and continue playing.")
-			Bet = 2 * int(self._label6.Text)
-			Money = Money2 + Bet
-			self._label1.Text = Money
-			self._label6.Text = " "
-			self._label6.Visible = False
-			self._textBox1.Visible = True
+			MessageBox.Show("You win. The board will now reset.")
+			reset()
